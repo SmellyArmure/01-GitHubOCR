@@ -1,3 +1,4 @@
+#COMMENTAIRE IMPORTANT FAIT EN LIGNE SUR GITHUB
 from math import *
 import random
 
