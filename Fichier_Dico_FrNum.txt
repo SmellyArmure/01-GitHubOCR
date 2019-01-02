@@ -1,0 +1,7 @@
+cent 100
+un 1
+deux 2
+dix 10
+mille 1000
+quatre 4
+dix-huit 18
