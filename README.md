@@ -1,4 +1,5 @@
-# ActOPCLR-GitHub
+# 01-GitHubOCR
+
 Activité Openclassrooms - Git et GitHub (Partie 2)
 * Ce repository a été crée dans le cadre de l'activité Openclassrooms visant à évaluer la partie 2 du cours sur Git et GitHub.
 * Les consignes sont les suivantes :
